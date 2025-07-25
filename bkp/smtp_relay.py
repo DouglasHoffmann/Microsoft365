@@ -1,5 +1,4 @@
 # Versão ajustada com envio via SMTP e assinatura posicionada corretamente
-# Desenvolvido com base no original, adaptado por ChatGPT
 
 import ssl
 import time
